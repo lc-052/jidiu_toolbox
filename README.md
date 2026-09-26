@@ -26,8 +26,6 @@
 
 <img width="1920" height="1337" alt="a2adeaa3ddafcc9e3c5743516ee9fe8a" src="https://github.com/user-attachments/assets/1bb6f865-73f4-4b74-b0cb-cb82a7b21c7c" />
 
-
-> （添加截图后替换此处占位描述）
 > - 首页：四个工具卡片排列
 > - 小游戏页：数字华容道 / 俄罗斯方块 / 贪吃蛇列表
 > - 设置页：深色主题开关、番茄钟时长配置
