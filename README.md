@@ -24,7 +24,8 @@
 **深色模式** — 切换系统主题即可在明暗两种风格间无缝切换。  
 **离线可用** — 所有数据存储在本地，无需联网。
 
-## 📸 截图
+<img width="1920" height="1337" alt="a2adeaa3ddafcc9e3c5743516ee9fe8a" src="https://github.com/user-attachments/assets/1bb6f865-73f4-4b74-b0cb-cb82a7b21c7c" />
+
 
 > （添加截图后替换此处占位描述）
 > - 首页：四个工具卡片排列
@@ -77,48 +78,9 @@ lib/
     ├── expense_tracker/              # 寄丢记账
     ├── memo_pad/                     # 薄望录
     ├── pomodoro_timer/               # 番茄钟
-    └── ai_chat/                      # AI 聊天（待接入）
+    └── ai_chat/                      # AI 聊天（待接入记账功能中）
 ```
 
-## 🚀 快速开始
-
-### 环境要求
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) >= 3.13
-- [Dart SDK](https://dart.dev/get-dart) >= 3.13
-- Android Studio / VS Code（推荐）
-
-### 安装运行
-
-```bash
-# 拉取依赖
-flutter pub get
-
-# 调试模式运行（连接设备或模拟器）
-flutter run
-
-# 构建 Release APK
-flutter build apk --release
-
-# 输出路径
-android/app/build/outputs/flutter-apk/app-release.apk
-```
-
-### 修改应用图标
-
-准备一张 `512×512` PNG 图片，然后：
-
-```bash
-# 编辑 pubspec.yaml 中的 image_path
-flutter_launcher_icons:
-  android: true
-  ios: true
-  image_path: "你的图标.png"
-
-# 一键生成所有平台图标
-flutter pub get
-dart run flutter_launcher_icons
-```
 
 ## ⚙️ 数据持久化
 
